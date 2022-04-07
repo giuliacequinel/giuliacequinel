@@ -2,7 +2,7 @@
 
 ##### teste
 
-- oie eu sou a  ## giulia ##
+- oie eu sou a **giulia**
 - 👀 eu estou interessada em aprender a programar novas linguagens.
 - 🌱 eu estou aprendendo a programar em linguagem de javascript e scratch.
 
